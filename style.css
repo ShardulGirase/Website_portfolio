@@ -1,0 +1,64 @@
+img{
+    position:absolute;
+    left:83.5%;
+    top:50%;
+}
+h5{
+    position:absolute;
+    left:75%;
+    top:15%;
+    font:200;
+    color: azure;
+}
+h2{
+    position:absolute;
+    left:80%;
+    top:10%;
+    color: black;
+    font: 300;
+}
+h1{
+    position:absolute;
+    color:black;
+    font:50;
+    left:75%;
+    top:55%;
+}
+body{
+    background-image: 
+    url('/Users/shardulgirase/Downloads/360_F_1046262882_7OgjcdncipH4GXHgoa5uKhkqcf5EqYdE.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+h3{
+    position:absolute;
+    color:aquamarine;
+    font:250;
+    left:75%;
+    top:17%;
+}
+h4{
+    position:absolute;
+    color:antiquewhite;
+    font:250;
+    left:75%;
+    top:21%;
+}
+h6{
+    position:absolute;
+    color: black;
+    font:350;
+    left:75%;
+    top:45%;
+}
+p{
+    position:absolute;
+    color:cyan;
+    font:250;
+    left:86.5%;
+    top:45%;
+}
+li{
+    color:cyan;
+}

@@ -1,0 +1,36 @@
+img{
+    position:absolute;
+    left:60%;
+}
+h1{
+    position:absolute;
+    left:76.2%;
+    color:aquamarine;
+}
+h2{
+    position:absolute;
+    left:60%;
+    top:40%;
+    color:antiquewhite;
+}
+h3{
+    position:absolute;
+    left:70%;
+    top:80%;
+    color:chartreuse;
+}
+h4{
+    position:absolute;
+    left:70%;
+    top:83%;
+}
+h5{
+    position:absolute;
+    left:85%;
+    top:83%;
+}
+h6{
+    position:absolute;
+    left:73%;
+    top:5.4%;
+}

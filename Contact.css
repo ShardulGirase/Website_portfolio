@@ -1,0 +1,21 @@
+h1{
+    position:absolute;
+    left:44%;
+    top:23%;
+    color: beige;
+}
+form{
+    position:absolute;
+    position:center;
+    left:46%;
+    top:35%;
+    font:700;
+}
+label{
+    position:absolute;
+    color:beige;
+}
+a{
+    position: absolute;
+    color:beige;
+}
